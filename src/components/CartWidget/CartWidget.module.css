@@ -1,0 +1,15 @@
+.carrito{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+.img{
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+}
+.num{
+    font-size: 2rem;
+    margin-left: 2px;
+    display: flex;
+}

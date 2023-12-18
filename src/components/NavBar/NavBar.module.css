@@ -1,0 +1,27 @@
+.nav{
+    background-color: rgb(224, 107, 107);
+    display: flex;
+    border-radius: 20px;
+    flex-direction: row;
+    align-items: center;
+    border: solid white 4px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100%;
+}
+.logo{
+    padding: 10px;
+    flex-basis: 50%;
+}
+.nav section{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    flex-basis: 50%;
+}
+.nav button{
+    margin: 10px;
+    background-color: black;
+    color: white;
+    border: solid white 2px;
+}
