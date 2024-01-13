@@ -1,0 +1,26 @@
+.ItemImg{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: solid rgb(0, 0, 0) 4px;
+    border-radius: 10px;
+}
+.CardItem{
+    background-color: rgb(224, 107, 107);
+    border: solid black 4px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+.Header{
+    font-size: 1.5rem;
+}
+.ItemHeader{
+    display: flex;
+    text-align: center;
+}

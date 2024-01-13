@@ -6,7 +6,7 @@ const CartWidget = () => {
   return (
     <div className={clas.carrito}>
       <img src={cart} alt="cart-widget" className={clas.img}/>
-      <span className={clas.num}>{itemCount}</span>
+      <span className={clas.contador}>{itemCount}</span>
     </div>
   );
 };

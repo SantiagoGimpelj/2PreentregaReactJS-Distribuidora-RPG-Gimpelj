@@ -1,6 +1,7 @@
 .carrito{
     display: flex;
     flex-direction: row;
+    position: relative;
     padding: 10px;
 }
 .img{
@@ -8,8 +9,13 @@
     height: 70px;
     border-radius: 10px;
 }
-.num{
-    font-size: 2rem;
-    margin-left: 2px;
-    display: flex;
+.contador{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50%;
+    z-index: 1;
 }
