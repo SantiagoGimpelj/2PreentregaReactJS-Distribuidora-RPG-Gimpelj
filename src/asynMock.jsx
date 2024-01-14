@@ -31,7 +31,7 @@ const products = [
         name: "BRZ 250",
         price: 3200,
         category: "candado",
-        img: "https://lh3.googleusercontent.com/proxy/wJngZ11_CRG78Sqac7DxUQs8lDo9jBKxEJUhaNxdQigXwCMb-ml0v2hBr_BSbMJbUx9ekb7TwhCVTDI7xKkj92vCWHVT1gOHaimFEp1HcqIiqoYnCbRV6LfntU_fLOSBcoQLuA0WXDrF4tDlMVcsay8makLTTjUyQEVCn0hCK2glgQ",
+        img: "https://http2.mlstatic.com/D_NQ_NP_660406-MLA47848692182_102021-O.webp",
         stock: 6,
         description:"Candado de doble traba bronceado de 50mm"
     },
