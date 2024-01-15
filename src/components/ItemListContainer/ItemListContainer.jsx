@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import clas from "./ItemListContainer.module.css";
-import { getProducts, getProductsByCategory } from "../../asynMock";
+import { getProductsByCategory, getProducts } from "../../AsyncMock";
 import ItemList from "../ItemList/ItemList";
 import { useParams } from "react-router-dom";
 
