@@ -19,9 +19,6 @@ const NavBar = () => {
           Caja fuerte
         </NavLink>
       </section>
-      {/* <NavLink to={`/category/cerradura`} className={({isActive}) => isActive ? "ActiveOption" : "Option"}>Cerraduras</NavLink>
-        <NavLink to={`/category/candado`} className={({isActive}) => isActive ? "ActiveOption" : "Option"}>Candados</NavLink>
-        <NavLink to={`/category/cajafuerte`} className={({isActive}) => isActive ? "ActiveOption" : "Option"}>Caja fuerte</NavLink> */}
       <CartWidget />
     </nav>
   );
